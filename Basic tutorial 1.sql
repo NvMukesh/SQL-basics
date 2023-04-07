@@ -22,6 +22,9 @@
 # - Delete
 
 # Data Query language (DQL)
+# - Select
+
+
 # creating database
 create database sql_workbench;
 
