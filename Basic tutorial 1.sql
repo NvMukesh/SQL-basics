@@ -1,3 +1,14 @@
+# SQL is the standard language for dealing with Relational Databases.
+# MySQL is a widely used relational database management system (RDBMS).
+# MySQL is free and open-source.
+# MySQL is ideal for both small and large applications.
+
+# MySQL is a very popular open-source relational database management system (RDBMS).
+# RDBMS stands for Relational Database Management System.
+# RDBMS is a program used to maintain a relational database.
+# RDBMS is the basis for all modern database systems such as MySQL, Microsoft SQL Server, Oracle, and Microsoft Access.
+# RDBMS uses SQL queries to access the data in the database.
+
 # creating database
 create database sql_workbench;
 
