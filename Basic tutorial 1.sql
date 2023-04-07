@@ -9,6 +9,19 @@
 # RDBMS is the basis for all modern database systems such as MySQL, Microsoft SQL Server, Oracle, and Microsoft Access.
 # RDBMS uses SQL queries to access the data in the database.
 
+# Data defintion language (DDL) (Structure modification)
+# - Create
+# - Drop
+# - Truncate
+# - Alter
+# - Rename
+
+# Data manipulation language (DDL) (Table data modification)
+# - Insert
+# - Update
+# - Delete
+
+# Data Query language (DQL)
 # creating database
 create database sql_workbench;
 
